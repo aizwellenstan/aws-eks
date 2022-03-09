@@ -31,8 +31,6 @@ echo 'export LBC_VERSION="v2.0.0"' >>  ~/.bash_profile
 .  ~/.bash_profile
 ```
 
-```
-
 ### Install Eksctl
 ```
 curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
