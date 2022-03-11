@@ -43,7 +43,7 @@ eksctl completion bash >> ~/.bash_completion
 
 ### Install Docker
 ```
-sudo apt install docker.io
+snap install docker
 sudo systemctl enable docker
 sudo systemctl start docker
 
